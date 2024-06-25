@@ -5,3 +5,6 @@ Este juego tiene el objetivo de servir como herramienta de apoyo para los docent
 de enseñar a escribir, pronunciar e incorporar palabras al vocabulario de los alumnos.
 
 Este proyecto es parte la asignatura de Ingeniería de Software II de la Facultad de Ciencias Exactas Naturales y Agrimensura de la UNNE
+
+
+En este repositorio se encuentra la documentación necesaria. En la Carpeta Documentacion 
