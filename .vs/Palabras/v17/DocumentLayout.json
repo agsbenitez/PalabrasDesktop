@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Ariel\\Documents\\ISII\\Palabras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74C21262-E3E0-485A-848B-B50DE8067A0E}|capaNegocio\\capaNegocio.csproj|C:\\Users\\Ariel\\Documents\\ISII\\Palabras\\capanegocio\\cnusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74C21262-E3E0-485A-848B-B50DE8067A0E}|capaNegocio\\capaNegocio.csproj|c:\\users\\ariel\\documents\\isii\\palabras\\capanegocio\\cnusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74C21262-E3E0-485A-848B-B50DE8067A0E}|capaNegocio\\capaNegocio.csproj|solutionrelative:capanegocio\\cnusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "capaNegocio\\CNUsuario.cs",
               "ToolTip": "C:\\Users\\Ariel\\Documents\\ISII\\Palabras\\capaNegocio\\CNUsuario.cs",
               "RelativeToolTip": "capaNegocio\\CNUsuario.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAAwHoAAAAAAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwHoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T21:16:39.083Z",
               "EditorCaption": ""
