@@ -1,0 +1,6 @@
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\bin\Release\capaEntidad.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\bin\Release\capaEntidad.pdb
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\obj\Release\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\obj\Release\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\obj\Release\capaEntidad.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\obj\Release\capaEntidad.pdb

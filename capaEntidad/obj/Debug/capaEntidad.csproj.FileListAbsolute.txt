@@ -1,0 +1,12 @@
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\capaEntidad\obj\Debug\capaEntidad.pdb
+C:\Users\Ariel\Documents\ISII\Palabras\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\Ariel\Documents\ISII\Palabras\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\Ariel\Documents\ISII\Palabras\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\Ariel\Documents\ISII\Palabras\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\ISII\Palabras\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\Ariel\Documents\ISII\Palabras\capaEntidad\obj\Debug\capaEntidad.pdb

@@ -1,0 +1,146 @@
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\front.exe.config
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\front.exe
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\front.pdb
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmPrincipal.resources
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.FrmLogin.resources
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.Properties.Resources.resources
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.csproj.GenerateResource.cache
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.exe
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.pdb
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmJuego.resources
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmPlay.resources
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmMainMDI.resources
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmBigScreen.resources
+C:\Users\Ariel\source\repos\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmJuez.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.csproj.AssemblyReference.cache
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmJuez.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmBigScreen.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmPrincipal.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmPlay.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmJuego.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmMainMDI.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmLogin.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.Properties.Resources.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.csproj.GenerateResource.cache
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.exe
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.pdb
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\front.exe.config
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\front.exe
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\front.pdb
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\bin\Debug\front.exe.config
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\bin\Debug\front.exe
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\bin\Debug\front.pdb
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.csproj.AssemblyReference.cache
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.frmJuez.resources
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.frmBigScreen.resources
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.frmPrincipal.resources
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.frmPlay.resources
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.frmJuego.resources
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.frmMainMDI.resources
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.frmLogin.resources
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.Properties.Resources.resources
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.csproj.GenerateResource.cache
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.csproj.CoreCompileInputs.cache
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.exe
+C:\Users\negro\OneDrive\Escritorio\Taller2\cloneRepoTPI\Palabras\front\obj\Debug\front.pdb
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmParticipante.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmParticipantes.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmUsuario.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmUsuarios.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\capaEntidad.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\capaNegocio.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\capaEntidad.pdb
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\capaNegocio.pdb
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.csproj.CopyComplete
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\capaDatos.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\MySql.Data.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\Google.Protobuf.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\ZstdSharp.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.Memory.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.Buffers.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\capaNegocio.dll.config
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\capaDatos.pdb
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\capaDatos.dll.config
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\MySql.Data.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\Google.Protobuf.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.Memory.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.Buffers.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmPermisos.resources
+C:\Users\Ariel\Documents\Taller Prog II\Trabajo_Integrador_Grupo29\Palabras\front\obj\Debug\front.frmPalabras.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\front.exe.config
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\front.exe
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\front.pdb
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\capaEntidad.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\capaNegocio.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\capaDatos.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\MySql.Data.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\Google.Protobuf.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\ZstdSharp.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.Memory.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.Buffers.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\capaEntidad.pdb
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\capaNegocio.pdb
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\capaNegocio.dll.config
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\capaDatos.pdb
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\capaDatos.dll.config
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\MySql.Data.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\Google.Protobuf.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.Memory.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.Buffers.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.csproj.AssemblyReference.cache
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmPalabras.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmParticipante.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmParticipantes.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmJuez.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmBigScreen.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmPermisos.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmPrincipal.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmPlay.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmJuego.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmMainMDI.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmLogin.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmUsuario.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.frmUsuarios.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.Properties.Resources.resources
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.csproj.GenerateResource.cache
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.exe
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.pdb
+C:\Users\Ariel\Documents\ISII\Palabras\front\obj\Debug\front.csproj.Up2Date
